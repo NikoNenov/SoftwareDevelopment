@@ -8,6 +8,9 @@
   * [Getting started with Prism](https://prismlibrary.com/docs/xamarin-forms/Getting-Started.html)
   * [Samples that demonstrate how to use various Prism features with Xamarin.Forms](https://github.com/PrismLibrary/Prism-Samples-Forms)
 
+### Libraries
+* [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
+
 # Cross-platform frameworks
 
 ## Xamarin
@@ -19,6 +22,14 @@
 
 ### Frameworks
 * [FreshMvvm](https://github.com/rid00z/FreshMvvm) - is a super light **Mvvm Framework** designed specifically for Xamarin.Forms. It's designed to be Easy, Simple and Flexible.
+
+### Praxis
+* [Channel9](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Async--Await--The-Xamarin-Show) Xamarin Show [Async/Await Basics and Advanced](https://github.com/xamcat/mobcat-xamarin-show/tree/master/AsyncAwait/AsyncAwait)
+
+### Links
+* James Montemagno [home page](https://montemagno.com/)
+* James Montemagno [plugins for .NET, Xamarin](https://github.com/jamesmontemagno/Xamarin.Plugins)
+* Open Source Components for [Xamarin](https://github.com/xamarin/XamarinComponents)
 
 ## Apache Cordova 
 * [Wiki](https://en.wikipedia.org/wiki/Apache_Cordova)
