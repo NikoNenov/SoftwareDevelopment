@@ -7,6 +7,7 @@
   * [Creating Your First Prism App](https://prismlibrary.com/docs/xamarin-forms/creating-your-first-prism-app.html)
   * [Getting started with Prism](https://prismlibrary.com/docs/xamarin-forms/Getting-Started.html)
   * [Samples that demonstrate how to use various Prism features with Xamarin.Forms](https://github.com/PrismLibrary/Prism-Samples-Forms)
+* [Avalonia]() - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
 
 ### Libraries
 * [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
@@ -15,6 +16,7 @@
 
 ## Xamarin
 * [Wiki](https://en.wikipedia.org/wiki/Xamarin)
+* [The Good and The Bad of Xamarin Mobile Development](https://www.altexsoft.com/blog/mobile/pros-and-cons-of-xamarin-vs-native/)
 
 ### User Interface (UI)
 * Xamarin.Forms [goodlooking UI Samples](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI) by Javier Suárez repository
