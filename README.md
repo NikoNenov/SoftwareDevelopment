@@ -42,3 +42,24 @@
 
 ## Flutter
 * [Wiki](https://en.wikipedia.org/wiki/Flutter_(software))
+
+<!-- Hidden comment
+"Restart" + "xamarin" + app site:stackoverflow.com
+Android
+-------	
+	https://forums.xamarin.com/discussion/174647/need-to-kill-and-restart-application-after-changing-android-language
+	https://stackoverflow.com/questions/6609414/how-do-i-programmatically-restart-an-android-app
+	
+
+iOS
+---
+	https://forums.xamarin.com/discussion/62599/how-to-restart-app-and-bring-to-front
+	
+xamarin plugin development
+--------------------------
+	https://devblogs.microsoft.com/xamarin/creating-reusable-plugins-for-xamarin-forms/
+	
+https://www.pujolsluis.com/lets-create-a-xamarin-plugin/	
+https://marketplace.visualstudio.com/items?itemName=vs-publisher-473885.PluginForXamarinTemplates#overview
+https://github.com/jamesmontemagno/Xamarin.Plugins	
+-->
