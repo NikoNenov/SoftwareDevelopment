@@ -45,6 +45,11 @@
 ## Flutter
 * [Wiki](https://en.wikipedia.org/wiki/Flutter_(software))
 
+# Other
+* [Das Git-Buch](http://gitbu.ch/index.html)
+* [Pro Git](https://git-scm.com/book/de/v2)
+
+
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
 Android
