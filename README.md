@@ -48,7 +48,7 @@
 # Other
 * [Das Git-Buch](http://gitbu.ch/index.html)
 * [Pro Git](https://git-scm.com/book/de/v2)
-
+* [Schneller, besser, kollaborativer: Git richtig implementieren](https://www.hosteurope.de/blog/schneller-besser-kollaborativer-git-richtig-implementieren/)
 
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
