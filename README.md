@@ -60,6 +60,13 @@
 * [C# - Interview Questions](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 * [C#. NET Interview Questions & Answers](https://www.wisdomjobs.com/e-university/c-dot-net-interview-questions.html)
 
+## Games
+* [Das Programmier-Spiel: nette Übungsaufgaben für zwischendurch](https://www.mycsharp.de/wbb2/thread.php?threadid=80566&hilight=programmierspiel)
+* [Spiel, Spaß und Programmierung: 7 Coding Games für Einsteiger & Profis](https://entwickler.de/online/tools/coding-games-entwickler-290531.html)
+* []()
+* []()
+* []()
+
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
 Android
