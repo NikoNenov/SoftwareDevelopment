@@ -12,6 +12,9 @@
 ### Libraries
 * [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
 
+### Links
+* [MSDN Magazine](https://docs.microsoft.com/de-de/archive/msdn-magazine/msdn-magazine-issues)
+
 ## Elm
 [Elm](https://elm-lang.org/) is a domain-specific programming language for declaratively creating web browser-based graphical user interfaces.
 * [Elmish.Net](https://github.com/johannesegger/Elmish.Net) – Elm architecture for .NET apps. 100% less XAML.
