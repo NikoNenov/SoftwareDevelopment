@@ -50,6 +50,7 @@
 * [Das Git-Buch](http://gitbu.ch/index.html)
 * [Pro Git](https://git-scm.com/book/de/v2)
 * [Schneller, besser, kollaborativer: Git richtig implementieren](https://www.hosteurope.de/blog/schneller-besser-kollaborativer-git-richtig-implementieren/)
+* [MSDN Magazine](https://docs.microsoft.com/de-de/archive/msdn-magazine/msdn-magazine-issues)
 
 ## Job/Interview
 * [Most Asked C# Interview Questions](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/)
@@ -63,9 +64,7 @@
 ## Games
 * [Das Programmier-Spiel: nette Übungsaufgaben für zwischendurch](https://www.mycsharp.de/wbb2/thread.php?threadid=80566&hilight=programmierspiel)
 * [Spiel, Spaß und Programmierung: 7 Coding Games für Einsteiger & Profis](https://entwickler.de/online/tools/coding-games-entwickler-290531.html)
-* []()
-* []()
-* []()
+* [JSRobot](https://lab.reaal.me/jsrobot/)
 
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
