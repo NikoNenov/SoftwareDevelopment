@@ -46,9 +46,19 @@
 * [Wiki](https://en.wikipedia.org/wiki/Flutter_(software))
 
 # Other
+## Version-control systems
 * [Das Git-Buch](http://gitbu.ch/index.html)
 * [Pro Git](https://git-scm.com/book/de/v2)
 * [Schneller, besser, kollaborativer: Git richtig implementieren](https://www.hosteurope.de/blog/schneller-besser-kollaborativer-git-richtig-implementieren/)
+
+## Job/Interview
+* [Most Asked C# Interview Questions](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/)
+* [Top C# Interview Questions and Answers](https://hackr.io/blog/c-sharp-interview-questions)
+* [Top 100 C# Interview Questions and Answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers)
+* [Top 52 C# Interview Questions & Answers](https://www.guru99.com/c-sharp-interview-questions.html)
+* [Top 50 C# Interview Questions with Answers](https://www.softwaretestinghelp.com/c-sharp-interview-questions/)
+* [C# - Interview Questions](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
+* [C#. NET Interview Questions & Answers](https://www.wisdomjobs.com/e-university/c-dot-net-interview-questions.html)
 
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
