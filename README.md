@@ -1,6 +1,3 @@
-# Software engineering
-* [Continuous delivery (CD)](https://de.wikipedia.org/wiki/Continuous_Delivery)
-
 # Programming languages
 
 ## .NET C#
