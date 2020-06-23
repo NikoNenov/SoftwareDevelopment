@@ -74,8 +74,6 @@
 * [Spiel, Spaß und Programmierung: 7 Coding Games für Einsteiger & Profis](https://entwickler.de/online/tools/coding-games-entwickler-290531.html)
 * [JSRobot](https://lab.reaal.me/jsrobot/)
 
-## Magazine/Blogs ect.
-* [MSDN Magazine](https://docs.microsoft.com/de-de/archive/msdn-magazine/msdn-magazine-issues)
 
 <!-- Hidden comment
 "Restart" + "xamarin" + app site:stackoverflow.com
