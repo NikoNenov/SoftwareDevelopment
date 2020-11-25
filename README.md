@@ -7,6 +7,7 @@
   * [Creating Your First Prism App](https://prismlibrary.com/docs/xamarin-forms/creating-your-first-prism-app.html)
   * [Getting started with Prism](https://prismlibrary.com/docs/xamarin-forms/Getting-Started.html)
   * [Samples that demonstrate how to use various Prism features with Xamarin.Forms](https://github.com/PrismLibrary/Prism-Samples-Forms)
+  * [Using Dependency Injection Everywhere](https://dansiegel.net/post/2019/05/24/using-dependency-injection-everywhere)
 * [Avalonia]() - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
 
 ### Libraries
@@ -73,6 +74,9 @@
 * [Das Programmier-Spiel: nette Übungsaufgaben für zwischendurch](https://www.mycsharp.de/wbb2/thread.php?threadid=80566&hilight=programmierspiel)
 * [Spiel, Spaß und Programmierung: 7 Coding Games für Einsteiger & Profis](https://entwickler.de/online/tools/coding-games-entwickler-290531.html)
 * [JSRobot](https://lab.reaal.me/jsrobot/)
+
+## Blogs
+* [Dan Siegel - Prism Maintainer](https://dansiegel.net/)
 
 
 <!-- Hidden comment
