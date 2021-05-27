@@ -12,7 +12,8 @@
 
 ### Libraries
 * [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
-
+* [MailKit](https://github.com/jstedfast/MailKit) - is a cross-platform mail client library built on top of [MimeKit](https://github.com/jstedfast/MimeKit).
+ 
 ### Links
 * [MSDN Magazine](https://docs.microsoft.com/de-de/archive/msdn-magazine/msdn-magazine-issues)
 
