@@ -10,6 +10,8 @@
   * [Using Dependency Injection Everywhere](https://dansiegel.net/post/2019/05/24/using-dependency-injection-everywhere)
 * [Avalonia]() - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
 
+### Technologies
+
 ### Libraries
 * [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
 * [MailKit](https://github.com/jstedfast/MailKit) - is a cross-platform mail client library built on top of [MimeKit](https://github.com/jstedfast/MimeKit).
