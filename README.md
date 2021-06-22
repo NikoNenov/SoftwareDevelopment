@@ -11,6 +11,9 @@
 * [Avalonia]() - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
 
 ### Technologies
+* Blockchain 
+  * [Building A Blockchain In .NET Core - Basic Blockchain](https://www.c-sharpcorner.com/article/blockchain-basics-building-a-blockchain-in-net-core/)
+  * [Blockchain - Programming Smart Contracts in C#](https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/november/blockchain-programming-smart-contracts-in-csharp)
 
 ### Libraries
 * [DotNetZip](https://www.nuget.org/packages/DotNetZip/) - is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.
