@@ -8,7 +8,8 @@
   * [Getting started with Prism](https://prismlibrary.com/docs/xamarin-forms/Getting-Started.html)
   * [Samples that demonstrate how to use various Prism features with Xamarin.Forms](https://github.com/PrismLibrary/Prism-Samples-Forms)
   * [Using Dependency Injection Everywhere](https://dansiegel.net/post/2019/05/24/using-dependency-injection-everywhere)
-* [Avalonia]() - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia) - is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+* [Uno Platform](https://platform.uno/) - Open-source UI Platform for building single-codebase applications for Windows, iOS, Android, WebAssembly, macOS, and Linux
 
 ### Technologies
 * Blockchain 
